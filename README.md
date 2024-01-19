@@ -12,7 +12,7 @@
     </div>
     <div>
         <h1>Hi there 👋</h1>
-        <p>I am Md. Yusuf Hasan. A passionate developer. My main areas of interest are web. A Front-end enthusiast on a journey to become a Full-stack developer. Passionate about crafting seamless web experiences.</p>
+        <p>I'm Md. Yusuf Hasan, a dedicated developer with a passion for web development. My primary focus lies in the realm of web technologies. I'm particularly enthusiastic about front-end development and currently on a journey to evolve into a full-stack developer. I take great joy in creating smooth and engaging web experiences.</p>
         <ul align="left">
             <li>Currently I'm learning Redux.</li>
             <li>Working with MERN stack.</li>
